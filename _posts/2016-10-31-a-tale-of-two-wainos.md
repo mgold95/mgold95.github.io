@@ -12,7 +12,7 @@ date:   2016-10-30 02:05:00 -0500
     Kirby Lee – USA Today Sports</figcaption>
 </figure>
 
-Can small, seemingly irrelevant differences between pitches be the difference
+Can small, seemingly irrelevant discrepancies between pitches be the difference
 that causes a pitcher to have a great outing instead of a poor one?
 
 Adam Wainwright was once one of the most dominant pitchers in the game of
