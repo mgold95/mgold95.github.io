@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi there. 
 
-I'm Michael Goldstien, a 21-year-old Computer Engineering senior at the University of 
+I'm Michael Goldstein, a 21-year-old Computer Engineering senior at the University of 
 Illinois in Urbana-Champaign. 
 
 I've worked on a variety of side projects in my free time and have interned with [Akuna Capital][1], a 
