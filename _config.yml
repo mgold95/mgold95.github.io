@@ -9,10 +9,9 @@
 title: Michael Goldstein
 email: michael@mgold.technology
 description: > # this means to ignore newlines until "baseurl:"
-  All content is licensed as Apache 2.0 unless otherwise stated
+  All content is licensed as Apache 2.0 unless otherwise stated.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mgold.technology" # the base hostname & protocol for your site
-stackoverflow_username: StackOverflow
+url: "https://mgold.technology" # the base hostname & protocol for your site
 github_username:  GitHub
 
 # Build settings

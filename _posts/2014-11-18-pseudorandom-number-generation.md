@@ -127,8 +127,5 @@ Edit: [Link to my article on statistical tests for random number generators][0]
 
 [Link to my random number generator][1] (you’re free to use or modify it as you like!)
 
-[Link to generated documentation for my random number generator][2]
-
 [0]: /2015/02/16/statistical-tests-for-random-number-generators.html
 [1]: https://github.com/mgold95/random/blob/master/src/mgold/random/generators/LinearCongruentialRandom.java
-[2]: http://google.com
