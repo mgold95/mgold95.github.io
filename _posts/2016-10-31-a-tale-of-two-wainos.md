@@ -4,13 +4,13 @@ title:  "A Tale of Two Wainos"
 date:   2016-10-30 02:05:00 -0500
 ---
 
-# Background
-
 <figure style="float: right; margin: 5px 0px 5px 10px;">
     <img src="/assets/waino/waino.jpg" alt="" />
     <figcaption style="text-align: center;">Adam Wainwright on May 12, 2016; 
     Kirby Lee – USA Today Sports</figcaption>
 </figure>
+
+# Background
 
 Can small, seemingly irrelevant discrepancies between pitches be the difference
 that causes a pitcher to have a great outing instead of a poor one?
