@@ -13,7 +13,7 @@ date:   2016-10-30 02:05:00 -0500
 </figure>
 
 Can small, seemingly irrelevant differences between pitches be the difference
-in a great outing instead of a poor outing for a pitcher?
+that causes a pitcher to have a great outing instead of a poor one?
 
 Adam Wainwright was once one of the most dominant pitchers in the game of
 baseball. In 2016, however, Waino seemed unable to return to his former
