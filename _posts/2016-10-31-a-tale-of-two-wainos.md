@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Tale of Two Wainos"
-date:   2016-10-30 00:05:00 -0500
+date:   2016-10-30 02:05:00 -0500
 ---
 
 # Background
@@ -12,12 +12,15 @@ date:   2016-10-30 00:05:00 -0500
     Kirby Lee – USA Today Sports</figcaption>
 </figure>
 
+Can small, seemingly irrelevant differences between pitches be the difference
+in a great outing instead of a poor outing for a pitcher?
+
 Adam Wainwright was once one of the most dominant pitchers in the game of
 baseball. In 2016, however, Waino seemed unable to return to his former
 dominant self after suffering a [season-ending achilles tear in 2015](http://m.mlb.com/news/article/120854420/st-louis-cardinals-pitcher-adam-wainwright-tears-achilles-will-miss-9-12-months/){:target="_blank"}. I'm going 
 to compare two of Wainright's starts this season -- one
 dominant outing and one poor outing -- and analyze what caused Adam's success 
-in the former and failure in the latter. What I'm not going to do is look for
+in the former and failure in the latter. What I'm not going to do is look too hard for
 things like mechanical differences in Wainwright's delivery. The purpose of
 this analysis isn't to figure out "what's wrong with Wainwright", but rather
 to emperically look at the differences in the pitches.
@@ -36,11 +39,11 @@ mediocre end of the season.
 July 16 was in the middle of Wainwright being
 "on his game" this season. It was his best start of the year. He had a complete
 game 3-hitter shutout. He really looked like the dominant Wainwright of the
-past. The Marlins lineup were just not at all able to read his pitches. 
+past. The Marlins lineup was just not at all able to read his pitches. 
 
 What made the Adam Wainwright of July 16 so dominant while the Wainwright of
 May 12 was simply ineffective? Well, in the words of Cardinals Manager Mike
-Matheny, "The art of tonight was him taking off a little but of velocity,
+Matheny, "The art of tonight was him taking off a little bit of velocity,
 putting on a little movement, and all, all about location."[^3] Let's directly
 compare the numbers and see how much of what Matheny said was right.
 
@@ -49,7 +52,7 @@ compare the numbers and see how much of what Matheny said was right.
 MLB Advanced Media has a system installed in every ballpark called [PITCHf/x](https://en.wikipedia.org/wiki/PITCHf/x){:target="_blank"}. Using
 mounted cameras and advanced algorithms, they track things like the release point,
 release velocity, spin rate, spin direction, break, pitch type, and more for every
-pitch in the MLB. Beyond that, they actually release [all of this data in XML](http://gd2.mlb.com/components/game/mlb/){:target="_blank"} on 
+pitch in the MLB. The great thing is they actually release [all of this data in XML](http://gd2.mlb.com/components/game/mlb/){:target="_blank"} on 
 their website, free for public use. It provides people everywhere with the data
 they need to perform statistical analysis of baseball.
 
@@ -57,6 +60,9 @@ I downloaded the XML list of all pitches for each game. I then wrote two separat
 scripts. One parses any given type of pitch from the XML and creates a spray plot of
 the locations color coded by the outcome. The second script parses any given type of pitch
 and outputs some statistics on the pitch like how often it's thrown, velocity, and break.
+
+Both scripts also attempt to correct for error in pitch classifications since the data
+seemed to have many fastballs and sinkers incorrectly classified as cutters.
 
 Both scripts, their output figures and stats, and the input XML data are all [available
 on my github](https://github.com/mgold95/baseball){:target="_blank"}.
@@ -246,6 +252,9 @@ cutters have much better location. These graphs really exemplify how small
 differences in pitch location can make the difference in whether a cutter
 gets smacked the other way for a double, or whether results in a whiff
 strike three.
+
+Without good command of his pitches, especially the softer ones like the curveball and
+cutter, batters were very much able to make strong contact off Wainwright.
 
 When Waino places his cutter in the right spot, it should look something
 like this.
