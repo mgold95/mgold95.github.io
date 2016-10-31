@@ -27,7 +27,7 @@ to emperically look at the differences in the pitches.
 
 # The Games
 
-I choose to compare Wainwright's outings on May 12 and July 16. On May 12,
+I chose to compare Wainwright's outings on May 12 and July 16. On May 12,
 Wainwright pitched 5 innings giving up 11 hits and 7 runs to the Angels lineup. 
 The St. Louis Post
 Dispatch commented, "The start was not what the Cardinals or Adam Wainwright
