@@ -28,7 +28,9 @@ independence. Uniformity simply means that the numbers are uniformly distributed
 if we generate 100 random numbers from 1 to 10, we should see approximately ten 1s, ten 2s, ten 
 3s, and so on. As n increases, the closer the distribution comes to being uniform. Independence 
 means that any and all prior outputs of the random number generator should have absolutely no 
-effect on the next output.
+effect on the next output. Do note that independence is the more important of the two. Uniformity
+can be fixed via a process called whitening. Nothing can fix a random number generator that
+doesn't have independent outcomes.
 
 # Test 1: Monte Carlo Simulation of Pi
 
