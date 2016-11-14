@@ -43,7 +43,7 @@ for you!
 </div>
 <div class="input-group">
     <span class="input-group-addon">$</span>
-    <input type="number" id="income" onkeyup="calcTaxes()" style="width: 95%;" class="form-control" min="0" step="0.01" placeholder="total taxable income">
+    <input type="number" id="income" onkeyup="calcTaxes()" style="width: 93%;" class="form-control" min="0" step="0.01" placeholder="total taxable income">
 </div>
 <h4 style="margin: 10px 0px 10px 0px;">Right now, you're taxed at about <span id="rate1" style="color: #0000ff;">0.0%</span> and pay about 
 <span id="amt1" style="color: #0000ff;">$0</span>.</h4>
