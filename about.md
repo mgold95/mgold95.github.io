@@ -31,9 +31,6 @@ Some other hobbies include playing acoustic
 guitar and singing, working on various side projects, writing, playing any sports (since living in Chicago
 I've grown particularly fond of beach volleyball and tennis), and following baseball.
 
-My blog has no real direction. It's not really a professional portfolio. It's not really geared towards
-any one topic. I just write about what I feel like and hopefully you enjoy reading it. 
-
 Thanks for visiting.
 
 -- Michael
