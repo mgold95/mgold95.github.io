@@ -14,9 +14,9 @@ function calcTaxes() {
         rate2 = 0;
     }
     $("#rate1").html(rate1.toFixed(1) + "%");
-    $("#amt1").html(amt1.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }));
+    $("#amt1").html("$" + amt1.toFixed(0));
     $("#rate2").html(rate2.toFixed(1) + "%");
-    $("#amt2").html(amt2.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }));
+    $("#amt2").html("$" + amt2.toFixed(0));
 }
 
 function calcOldAmt(f, inc) {
