@@ -15,10 +15,10 @@ I've worked on a variety of side projects in my free time and have interned with
 proprietary trading firm based in Chicago, since March of 2013. Initially, I worked in C# as a 
 desktop developer creating a proprietary trading application. Last summer, I worked as a
 hardware engineer developing pieces of the trading engine. I will be joining Akuna for the beginning
-of my full-time career next summer as a Hardware & Software Engineer. For more information on my side 
-projects and professional experience, please see my [resume][0], 
-my [GitHub profile][2], my [StackOverflow profile][3], my [StackOverflow Careers CV][4], or my 
-[LinkedIn profile][5].
+of my full-time career next summer as a Hardware & Software Engineer. For more information about my side 
+projects and professional experience, please see
+my [GitHub profile][2], my [StackOverflow profile][3], my 
+[LinkedIn profile][5], or [email me][4] to ask for my resume.
 
 My academic and professional interests include systems programming, computer security and 
 cryptography, hardware engineering and design, and real-time computing.
@@ -38,10 +38,9 @@ Thanks for visiting.
 
 -- Michael
 
-[0]: /assets/resume_web.pdf
 [1]: http://www.akunacapital.com/
 [2]: https://github.com/mgold95
 [3]: http://stackoverflow.com/users/4252990/michael-goldstein
-[4]: http://stackoverflow.com/cv/mgold
+[4]: mailto:michael@mgold.technology
 [5]: https://www.linkedin.com/in/mgold95
 
