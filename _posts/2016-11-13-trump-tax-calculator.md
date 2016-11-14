@@ -35,7 +35,7 @@ for you!
         <input type="radio" name="filing" onchange="calcTaxes()" value="1" autocomplete="off" checked> Single
     </label>
     <label class="btn btn-primary">
-        <input type="radio" name="filing" onchange="calcTaxes()" value="2" autocomplete="off"> Married Filing Jointly
+        <input type="radio" name="filing" onchange="calcTaxes()" value="2" autocomplete="off"> Married
     </label>
     <label class="btn btn-primary">
         <input type="radio" name="filing" onchange="calcTaxes()" value="3" autocomplete="off"> Head of Household
