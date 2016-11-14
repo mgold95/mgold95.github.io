@@ -20,7 +20,10 @@ earners.
 
 I created a handy calculator for you to see how your tax rates could be
 affected. Simply select your filing status and input your total taxable
-income (don't forget to add your bonus). It'll do all the rest of the work
+income (don't forget to add your bonus). Also don't forget to subtract
+your [IRS standard deduction](https://www.irs.gov/publications/p17/ch20.html#en_US_2015_publink100017022){:target="_blank"}
+(usually $6,300 if you're single or $12,600
+if you're married) from your taxable income. It'll do all the rest of the work
 for you! 
 
 <link href="/css/bootstrap.css" rel="stylesheet">
