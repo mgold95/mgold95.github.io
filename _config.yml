@@ -7,11 +7,11 @@
 
 # Site settings
 title: Michael Goldstein
-email: michael@mgold.technology
+email: michael@mgold.io
 description: > # this means to ignore newlines until "baseurl:"
   All content is licensed as Apache 2.0 unless otherwise stated.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mgold.technology" # the base hostname & protocol for your site
+url: "http://mgold.io" # the base hostname & protocol for your site
 github_username:  GitHub
 
 # Build settings

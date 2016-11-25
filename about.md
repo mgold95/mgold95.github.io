@@ -38,6 +38,6 @@ Thanks for visiting.
 [1]: http://www.akunacapital.com/
 [2]: https://github.com/mgold95
 [3]: http://stackoverflow.com/users/4252990/michael-goldstein
-[4]: mailto:michael@mgold.technology
+[4]: mailto:michael@mgold.io
 [5]: https://www.linkedin.com/in/mgold95
 
