@@ -12,8 +12,8 @@ I'm Michael Goldstein, a 21-year-old Computer Engineering senior at the Universi
 Illinois in Urbana-Champaign. 
 
 I've worked on a variety of side projects in my free time and have interned with [Akuna Capital][1], a 
-proprietary trading firm based in Chicago, since March of 2013. Initially, I worked in C# as a 
-desktop developer creating a proprietary trading application. Last summer, I worked as a
+proprietary trading firm based in Chicago, since March of 2014. Initially, I worked in C# as a 
+desktop developer creating a proprietary trading application. In summer of 2016, I interned as a
 hardware engineer developing pieces of the trading engine. I will be joining Akuna for the beginning
 of my full-time career next summer as a Hardware & Software Engineer. For more information about my side 
 projects and professional experience, please see
