@@ -4,14 +4,15 @@ title:  "Trump Tax Calculator"
 date:   2016-11-13 21:25:00 -0500
 ---
 
-Like it or not, Donald Trump is going to be our next president. One thing 
+Donald Trump is going to be our next president. One thing 
 Trump promised all along was tax simplification and cuts for the middle
 class. Earlier today, [the good folks at NPR outlined the details of Donald
 Trump's tax plan](http://www.npr.org/2016/11/13/501739277/who-benefits-from-donald-trumps-tax-plan){:target="_blank"}.
 
 My first response of course was to find out how it might affect me. After
-doing the math, I was surprised to learn that I'll likely be paying about
-the same amount of taxes under Trump's plan. Basically, Trump wants to
+doing the math, 
+I was surprised to learn that the difference isn't all that significant for me.
+Basically, Trump wants to
 reduce the number of tax brackets from seven down to three. The top bracket
 will be taxed at 33% versus 40%. Under Trump's plan, most people will 
 likely end up with an effective tax rate that's a percent or two lower,
