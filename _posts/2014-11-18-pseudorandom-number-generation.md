@@ -55,7 +55,7 @@ doesn’t produce the best random numbers around. On the other hand though, it�
 used extensively today, and it produces random numbers that are “good enough” for many 
 applications. It is called the Linear Congruential Method. It goes like this: take the seed and 
 multiply it by a really large number. Since computers use modular arithmetic, if the number is too 
-large or too small after the multiplication (it probably will be), it will “wrap around.” Normally 
+large after the multiplication (it probably will be), it will “wrap around.” Normally 
 when generating random numbers, this “wrap around” happens several hundred times. It’s sort of 
 like spinning a wheel; it’s somewhat unpredictable where it will stop. After the multiplication, we 
 add an “increment” to help prevent bad seeds as explained previously. That’s all there is too it! 
@@ -127,5 +127,5 @@ Edit: [Link to my article on statistical tests for random number generators][0]
 
 [Link to my random number generator][1] (you’re free to use or modify it as you like!)
 
-[0]: /2015/02/16/statistical-tests-for-random-number-generators.html
+[0]: /2015/02/17/statistical-tests-for-random-number-generators.html
 [1]: https://github.com/mgold95/random/blob/master/src/mgold/random/generators/LinearCongruentialRandom.java
