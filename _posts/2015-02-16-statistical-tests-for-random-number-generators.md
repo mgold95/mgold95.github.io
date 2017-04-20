@@ -452,7 +452,6 @@ compression ratios right at the limit of 8/7ths. The Middle Square Method’s is
 As you can see, there’s a wide variety of ways to test random number generators. I’ve presented 
 four of them each with their own merits. Feel free to use them as you choose and I hope they serve 
 you well; perhaps you’ll be the person who creates the latest quick, efficient, and effective 
-pseudorandom number generating algorithm! If anything is confusing, feel free to comment and I’d 
-be happy to try and clear it up.
+pseudorandom number generating algorithm!
 
 [Here’s a link to my testing framework](https://github.com/mgold95/random/blob/master/src/mgold/random/testing/RandomTester.java).
