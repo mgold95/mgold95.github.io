@@ -9,7 +9,11 @@
 title: Michael Goldstein
 email: michael@mgold.io
 description: > # this means to ignore newlines until "baseurl:"
-  All content is licensed as Apache 2.0 unless otherwise stated.
+  All content is licensed as 
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">
+  Creative Commons Attribution-ShareAlike 4.0
+  </a>
+  unless otherwise stated.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mgold.io" # the base hostname & protocol for your site
 enforce_ssl: mgold.io
