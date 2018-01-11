@@ -12,11 +12,9 @@ I'm Michael Goldstein, a 22-year-old FPGA Engineer at Akuna Capital,
 a Master of Science in Electrical and Computer Engineering student at the Georgia Institute of Technology,
 and a Computer Engineering alumnus of the University of Illinois at Urbana-Champaign. 
 
-I've worked on a variety of side projects in my free time and have interned with [Akuna Capital][1], a 
-proprietary trading firm based in Chicago, since March of 2014. Initially, I worked in C# as a 
-desktop developer creating a proprietary trading application. In summer of 2016, I interned as a
-hardware engineer developing pieces of the trading engine. I will be joining Akuna for the beginning
-of my full-time career late June as a hardware & software engineer working on Akuna's trading engine. 
+I've worked on a variety of side projects in my free time and have worked for [Akuna Capital][1], a 
+proprietary trading firm based in Chicago, since March of 2014. My focus at Akuna has been 
+using FPGAs to build low-latency trading strategies.
 For more information about my side projects and professional experience, please see
 my [GitHub profile][2], my [StackOverflow profile][3], my 
 [LinkedIn profile][5], or [email me][4] to ask for my resume.
