@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi there. 
 
-I'm Michael Goldstein, a 22-year-old FPGA Engineer at Akuna Capital,
+I'm Michael Goldstein, a 23-year-old FPGA Engineer at Akuna Capital,
 a Master of Science in Electrical and Computer Engineering student at the Georgia Institute of Technology,
 and a Computer Engineering alumnus of the University of Illinois at Urbana-Champaign. 
 
