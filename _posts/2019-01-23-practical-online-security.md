@@ -200,8 +200,8 @@ talking to, and never give remote access to your computer.
   * **DON'T** carry lots of cash
   * **DO** pay with credit cards or Apple/Android Pay
 
-For obvious reasons, carrying lots of cash is more of less a bad idea. Cash payments also make it more difficult for you to
-track your purchases (something you should do for your own financial well-being). Paying with with credit cards or
+For obvious reasons, carrying lots of cash is more or less a bad idea. Cash payments also make it more difficult for you to
+track your purchases (something you should do for your own financial well-being). Paying with credit cards or
 Android/Apple Pay is generally regarded as being more secure than paying with debit cards. The reason is that with a credit
 card, you can refuse to pay for fraudulent transactions. Essentially, the liability is on the credit card company (who will
 hunt down the merchant to find out why they didn't properly verify your identity). Credit cards with the "chip" as well as
