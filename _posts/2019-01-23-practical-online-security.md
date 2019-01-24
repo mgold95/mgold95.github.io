@@ -182,7 +182,7 @@ our conversation.
 
 <figure style="float: center; margin: 5px 5px 15px 5px; width: 100%;">
     <img src="/assets/mom_convo.png" alt="conversation with my mom" style="height:100vh; margin: 5px auto 5px auto; display: block;" />
-    <figcaption style="text-align: center;">A Text Conversation With My Mom</figcaption>
+    <figcaption style="text-align: center;">A text conversation with my mom</figcaption>
 </figure>
 
 As you can see, I immediately became very concerned. My dear mother had fallen for a scam, which, unfortunately,
