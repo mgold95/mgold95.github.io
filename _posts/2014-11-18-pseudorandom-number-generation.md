@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Pseudorandom Number Generation"
 date:   2014-11-18 22:54:21 -0500
 ---

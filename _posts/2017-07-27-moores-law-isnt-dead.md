@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Moore's Law Isn't Dead"
 date:   2017-07-27 20:00:00 -0500
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "A Tale of Two Wainos"
 date:   2016-10-30 02:05:00 -0500
 ---

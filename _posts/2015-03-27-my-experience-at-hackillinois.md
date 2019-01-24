@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "My Experience at HackIllinois"
 date:   2015-03-27 22:54:21 -0500
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Java: Pass by Value or Pass by Reference"
 date:   2014-11-23 22:54:21 -0500
 ---

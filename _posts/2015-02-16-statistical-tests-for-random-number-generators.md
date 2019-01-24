@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Statistical Tests for Random Number Generators"
 date:   2015-02-16 22:54:21 -0500
 ---

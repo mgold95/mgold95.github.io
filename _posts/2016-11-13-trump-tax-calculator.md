@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Trump Tax Calculator"
 date:   2016-11-13 21:25:00 -0500
 ---

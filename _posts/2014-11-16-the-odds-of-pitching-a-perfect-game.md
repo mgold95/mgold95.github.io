@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "The Odds of Pitching a Perfect Game"
 date:   2014-11-16 22:54:21 -0500
 ---
