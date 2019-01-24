@@ -306,7 +306,7 @@ for an app to be able to do something like "Read text messages" or "use GPS", do
 # Summary
 
 Look. Security is hard. It's a lot of effort. It's worth it though. Putting a bit of time into
-your security now means that you won't have to put hundreds of hours in later when your
+your security now means that you won't have to put hundreds of hours in later when you're
 the victim of a cyber crime.
 
 Cheers and stay safe.
