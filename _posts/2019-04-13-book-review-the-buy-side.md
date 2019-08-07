@@ -11,21 +11,21 @@ difficult time deciding whether this is a story with a happy ending. In some sen
 that he lost out on his successful Wall Street career, that he didn't end up with the mother of his
 daughter, and that the millions of dollars he earned seems to have mostly since disappeared. On the
 other hand though, it truly seems that Turney has found himself and happiness after years of living
-as a shell.
+as a shell. I'm sure writing the book was quite therapeutic for him.
 
 <figure style="float: right; margin: 5px 0px 5px 10px;">
-    <img src="/assets/the-buy-side.jpg" alt="The Buy Side" style="width: 250px;" />
+    <img src="/assets/the-buy-side.jpg" alt="The Buy Side" style="width: 220px;" />
 </figure>
 
 Duff first outlines his middle class upbringing; he grew up in Ohio and Maine, the son of a chemical
-engineer who he describes as the hardest working man he knew. After graduating with a journalism
-degree, he moved to New York with some friends, but struggled to find a job. During his search, he
+engineer whom he describes as the hardest working man he knew. After graduating with a journalism
+degree, he moves to New York with some friends, but struggled to find a job. During his search, he
 even describes picking up an application for GAP, for which he said his friends would have ridiculed
 him endlessly, had they known. Eventually, he decides to give his uncle a call. His uncle was a man
-who worked on Wall Street, but had since moved to California. His uncle setup several interviews for
+who worked on Wall Street, but had since moved to California. His uncle sets up several interviews for
 him. He lands a job with Morgan Stanley, in "professional client services." Immediately, Duff realizes
 that what he really wants is to be a trader. A few years into his career at Morgan, he leaves to take
-a job at the hedge fund Galleon, where he becomes a trader.
+a trading job at the hedge fund Galleon.
 
 Traders at large hedge funds, referred to as the "buy side", control massive amounts of money.
 As they make trades, the brokers they go through earn massive commissions, so they constantly
@@ -35,7 +35,7 @@ quickly falls into the lifestyle of being entertained by them in the form of din
 and eventually, drugs and prostitutes. Duff also establishes himself as an extremely capable
 trader of healthcare equities as Galleon.
 
-The cofounder of Galleon eventually leaves to form his own healthcare hedge fund, Argus. He persuades Duff
+The co-founder of Galleon eventually leaves to form his own healthcare hedge fund, Argus. He persuades Duff
 to leave and join him. Duff becomes a head trader, and a powerful force on Wall Street. During his
 biggest year, he has a total compensation of nearly two million dollars.
 
@@ -68,8 +68,8 @@ He leaves his job at Argus and admits himself to rehab.
 After returning from rehab, Duff buys a house to live in with his wife and daughter. He gets a new job
 in trading for a smaller hedge fund. Turney does well for a while and stays clean. Eventually though,
 he begins using again. At first, he stayed at hotels in the city and used cocaine there. Between that
-and his house, he eventually couldn't afford the hotel rooms anymore, so he would stay with friends in
-the city instead. One by one, they refused to enable him and told him he could no longer stay with them.
+and his house, he eventually can't afford the hotel rooms anymore, so he stays with friends in
+the city instead. One by one, they refuse to enable him and tell him he could no longer stay with them.
 
 Duff's girlfriend says they can no longer stay with him, so she moves out along with his daughter. His
 friends intervene and he attends rehab a second time. After returning the second time, he accepts a job
