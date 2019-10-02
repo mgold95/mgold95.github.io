@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![Michael Goldstein](/assets/me.jpg){:style="float:right; margin: 5px 0px 5px 10px; width: 300px;"}
+![Michael Goldstein](/assets/me.jpg){:style="float:right; margin: 5px 0px 5px 10px; width: 250px;"}
 
 Hi there. 
 
@@ -34,4 +34,4 @@ Thanks for visiting.
 
 [1]: http://www.akunacapital.com/
 [2]: https://www.linkedin.com/in/mgold95
-
+[3]: https://www.crisistextline.org/
