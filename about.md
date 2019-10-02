@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![Michael Goldstein](/assets/me.jpg){:style="float:right; margin: 5px 0px 5px 10px;"}
+![Michael Goldstein](/assets/me.jpg){:style="float:right; margin: 5px 0px 5px 10px; width: 300px;"}
 
 Hi there. 
 
@@ -18,15 +18,15 @@ using FPGAs to build low-latency trading systems.
 For more information about my side projects and professional experience, please contact me via email, michael@,
 or [via LinkedIn][2].
 
-My academic and professional interests include financial markets, systems & embedded programming,
+My academic and professional interests include financial markets, telecommunications, systems & embedded programming,
 hardware engineering and design, and computer security.
 
-Other things of particular interest to me include statistics, history, music, and politics.
+Other things of particular interest to me include economics, statistics, history, and music.
 
 I spend a great deal of my time reading (all sorts of things like FiveThirtyEight to the Wall Street Journal,
 to classics like The Count of Monte Cristo, to nonfiction works and textbooks).
-Some other hobbies include running, playing acoustic guitar and singing, working on various side projects,
-writing, playing any sports, and following baseball.
+Some other hobbies include volunteering with [Crisis Text Line][3], cooking, running,
+playing acoustic guitar and singing, writing, and playing mostly any sport.
 
 Thanks for visiting.
 
