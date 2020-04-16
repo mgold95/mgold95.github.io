@@ -19,7 +19,7 @@ as a shell. I'm sure writing the book was quite therapeutic for him.
 
 Duff first outlines his middle class upbringing; he grew up in Ohio and Maine, the son of a chemical
 engineer whom he describes as the hardest working man he knew. After graduating with a journalism
-degree, he moves to New York with some friends, but struggled to find a job. During his search, he
+degree, he moves to New York with some friends, but struggles to find a job. During his search, he
 even describes picking up an application for GAP, for which he said his friends would have ridiculed
 him endlessly, had they known. Eventually, he decides to give his uncle a call. His uncle was a man
 who worked on Wall Street, but had since moved to California. His uncle sets up several interviews for
@@ -28,12 +28,12 @@ that what he really wants is to be a trader. A few years into his career at Morg
 a trading job at the hedge fund Galleon.
 
 Traders at large hedge funds, referred to as the "buy side", control massive amounts of money.
-As they make trades, the brokers they go through earn massive commissions, so they constantly
+As they make trades, the brokers they go through earn massive commissions. These brokers constantly
 do whatever they can to befriend and entertain the buy side traders, who hold the power to earn
-them these huge commissions, and the huge bonuses that their firms will award them for it. Duff
+them these huge commissions (and the huge bonuses that their firms will award them for it). Duff
 quickly falls into the lifestyle of being entertained by them in the form of dinners, clubs,
 and eventually, drugs and prostitutes. Duff also establishes himself as an extremely capable
-trader of healthcare equities as Galleon.
+trader of healthcare equities at Galleon.
 
 The co-founder of Galleon eventually leaves to form his own healthcare hedge fund, Argus. He persuades Duff
 to leave and join him. Duff becomes a head trader, and a powerful force on Wall Street. During his
