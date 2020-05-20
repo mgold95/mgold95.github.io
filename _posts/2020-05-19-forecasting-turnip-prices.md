@@ -2,19 +2,16 @@
 layout: post
 comments: true
 title:  "Animal Crossing: Forecasting Turnip Prices with Bayesian Inference"
-date:   2020-05-18 14:30:00 -0500
+date:   2020-05-19 22:00:00 -0500
 ---
 
+![Animal Crossing: New Horizons](/assets/acnh/acnh.jpg)
 <link href="/css/bootstrap-3.4.1.min.css" rel="stylesheet">
 
-<figure style="float: right; margin: 5px 0px 5px 10px;">
-    <img src="/assets/acnh/acnh.jpg" alt="" />
-    <figcaption style="text-align: center;"><i>Animal Crossing: New Horizons</i></figcaption>
-</figure>
 
 ### Introduction
 
-Turnips are bitter, smelly, generally disgusting root vegetables that I imagine only two-pack-a-day smokers who have burned off their taste buds can bear to eat. Despite that, during these strange times as we all sit in our homes trying to build a better life for ourselves in the virtual island paradise that is _Animal Crossing_, the Stalk Market for buying and selling turnips has captured many of our imaginations. With the real market sinking and our 401Ks making it look more and more likely we'll never be able to retire, many of us have turned to this virtual market in the hopes of at least capturing a consolation prize of becoming a virtual millionaire.
+Turnips are bitter, smelly, generally disgusting root vegetables that I imagine only two-pack-a-day smokers who have burned off their taste buds can bear to eat. Despite that, during these strange times as we all sit in our homes trying to build a better life for ourselves in the virtual island paradise that is _Animal Crossing_, the Stalk Market for buying and selling turnips has captured many of our imaginations. With the real market sinking and our 401Ks making it look more and more likely we'll never be able to retire, many of us have turned to this virtual market in the hopes of at least capturing a consolation prize of becoming a bellionaire.
 
 Here's how the Stalk Market works: on Sunday Daisy Mae strolls onto your island and will sell turnips during the morning at a price between 90 and 110 bells per turnip. You can then sell the turnips you purchased at Nook's Cranny for whatever the market price happens to be. This price changes twice per day: once each day and once at noon. Any turnips not sold by the next Sunday will spoil and become worthless.
 
@@ -22,7 +19,7 @@ As someone working in the trading industry, as soon as my fiancée told me about
 
 Like many people playing the Stalk Market, I then came across the numerous online Turnip Calculators. When looking into their methodology, they all pointed to one place: a snippet of code from a Gibraltarian university student in Scotland who reverse engineered the turnip price-generating logic.[^1]
 
-### Studying the code.
+### Studying the code
 
 Studying the code, I confirmed a couple things. Your "buy price" (I'll call it "base price" from now on) is indeed randomly chosen from 90-110 bells, and one of four patterns is chosen each week.
 
@@ -131,7 +128,7 @@ P_3 = 0.15 \\
 P_4 = 0.15
 $$
 
-The turnip buy price was 106 bells and on Monday morning the price of turnips was 94 bells. Because the patterns work by scaling the base price, it's more convenient to look at this as a percentage of the base price. Because the code used rounds results upwards, I also subtract $$0.5$$ from my price since that's actually the "mean" price before the code rounds it up.
+The turnip buy price was 106 bells, and on Monday morning, the price of turnips was 94 bells. Because the patterns work by scaling the base price, it's more convenient to look at this as a percentage of the base price. Because the code used rounds results upwards, I also subtract $$0.5$$ from my price since that's actually the "mean" price before the code rounds it up.
 
 $$
 X = \frac{93.5}{106} = 88.21\%
@@ -187,9 +184,9 @@ Over the following day, here's what the prices were.
 {: .table .table-striped .table-hover}
 | Day   | AM Price | PM Price |
 | ----- | -------: | -------: |
-| 04/26 | 106      |          |
-| 04/27 | 94       | 91       |
-| 04/28 | 131      |          |
+| 04/26 (Sunday) | 106      |          |
+| 04/27 (Monday) | 94       | 91       |
+| 04/28 (Tuesday) | 131      |          |
 
 From this set of prices, we know we can no longer be in the _Decreasing_ pattern. We can still be in either _Big Spike_ or _Small Spike_, but it's much more likely to be _Big Spike_. The next price was in the $$140-200\%$$ of base price range, confirming that we were in a big spike pattern. As expected, we saw the spike the following morning (of 432 bells).
 
@@ -203,7 +200,7 @@ P_3 = 0.20 \\
 P_4 = 0.25
 $$
 
-The turnip buy price was 101 bells and on Monday morning the price of turnips was 88 bells. Again, calculating the percentage of the base price, we have
+The turnip buy price was 101 bells, and on Monday morning, the price of turnips was 88 bells. Again, calculating the percentage of the base price, we have
 
 $$
 X = \frac{87.5}{101} = 86.63\%
@@ -246,8 +243,8 @@ So, sadly, we're probably in a _Decreasing_ pattern. When the afternoon prices c
 {: .table .table-striped .table-hover}
 | Day   | AM Price | PM Price |
 | ----- | -------: | -------: |
-| 05/03 | 101      |          |
-| 05/04 | 88       | 83       |
+| 05/03 (Sunday) | 101      |          |
+| 05/04 (Monday) | 88       | 83       |
 
 To calculate the probabilities after the next price came in, we simply iterate. We use the probabilities just calculated as our new priors. The only way we can be in _Big Spike_ or _Small Spike_ is if we are still in the beginning decreasing part of the pattern. The rest of the math actually becomes a bit easier. We only need to compute the probability of such an event happening given we are in a given pattern and already saw Monday's price.
 
@@ -284,7 +281,7 @@ So, this next day's data as you would expect only increased the likelihood that 
 
 ### Conclusion
 
-Though you'd never want to eat a turnip, it's understandable to want to forecast their prices in _Animal Crossing: New Horizons_. In just a few weeks, I've already made a fortune in the turnip market. With a bit of modeling, you too can forecast the turnip price patterns with great accuracy. If modeling turnip prices brings us together in these trying times, then I'm all for it. Please leave a comment with any thoughts or questions.
+Though you'd never want to eat a turnip, it's understandable to want to forecast their prices in _Animal Crossing: New Horizons_. In just a few weeks, I've already made a fortune in the stalk market. With a bit of modeling, you too can forecast the turnip price patterns with great accuracy. If modeling turnip prices brings us together in these trying times, then I'm all for it. Please leave a comment with any thoughts or questions.
 
 ### Appendix A: Brute Force Computing the Patterns
 
@@ -333,7 +330,7 @@ $$
 \pi_4 =  0.25 \\
 $$
 
-Thus, over the long run one can expect to spend about one-fourth of the time in each of the four patterns.
+Thus, over the long run, one can expect to spend about one-fourth of the time in each of the four patterns.
 
 ### References
 
