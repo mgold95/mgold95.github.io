@@ -66,7 +66,7 @@ Note: Phases A+E = 3.5 days.
 #### Decreasing
 ![Simulated Decreasing Pattern](/assets/acnh/decreasing.png)
 
-The _Decreasing_ pattern is the worst of the four patterns. Over the entire week, the prices gradually decrease.
+The _Decreasing_ pattern is the worst of the four patterns. Over the entire week, the prices gradually decreases.
 
 {: .table .table-striped .table-hover}
 | Phase | Length | Description |
