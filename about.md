@@ -9,8 +9,8 @@ permalink: /about/
 Hi there. 
 
 I'm Michael Goldstein, an FPGA Engineer at Akuna Capital,
-a Master of Science in Electrical and Computer Engineering student at the Georgia Institute of Technology,
-and a Computer Engineering alumnus of the University of Illinois at Urbana-Champaign. 
+a MS in Electrical and Computer Engineering alumnus at the Georgia Institute of Technology,
+and a BS in Computer Engineering alumnus of the University of Illinois at Urbana-Champaign. 
 
 I've worked on a variety of side projects in my free time and have worked for [Akuna Capital][1], a 
 proprietary trading firm based in Chicago, since March of 2014. My focus at Akuna has been 
@@ -23,10 +23,8 @@ hardware engineering and design, and computer security.
 
 Other things of particular interest to me include economics, statistics, history, and music.
 
-I spend a great deal of my time reading (all sorts of things like FiveThirtyEight to the Wall Street Journal,
-to classics like The Count of Monte Cristo, to nonfiction works and textbooks).
-Some other hobbies include volunteering with [Crisis Text Line][3], cooking, running,
-playing acoustic guitar and singing, writing, and playing mostly any sport.
+Some various hobbies of mine include volunteering with [Crisis Text Line][3], [chess][4], cooking, running,
+reading, playing acoustic guitar and singing, writing, and playing mostly any sport.
 
 Thanks for visiting.
 
@@ -35,3 +33,4 @@ Thanks for visiting.
 [1]: http://www.akunacapital.com/
 [2]: https://www.linkedin.com/in/mgold95
 [3]: https://www.crisistextline.org/
+[4]: https://lichess.org/@/mgold
