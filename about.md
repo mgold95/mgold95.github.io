@@ -9,7 +9,7 @@ permalink: /about/
 Hi there. 
 
 I'm Michael Goldstein, an FPGA Engineer at Akuna Capital,
-a MS in Electrical and Computer Engineering alumnus at the Georgia Institute of Technology,
+a MS in Electrical and Computer Engineering alumnus of the Georgia Institute of Technology,
 and a BS in Computer Engineering alumnus of the University of Illinois at Urbana-Champaign. 
 
 I've worked on a variety of side projects in my free time and have worked for [Akuna Capital][1], a 
