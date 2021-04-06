@@ -19,8 +19,8 @@ Throwing a perfect game means allowing no walks or hits over the entire game. Co
 is a baseball statistic that works almost perfectly. Walks and Hits per Inning Pitched, a.k.a. 
 WHIP, can be simply multiplied by 9 to obtain the average number of walks and hits allowed by a 
 pitcher per game. The average number of baserunners a pitcher allows can be modeled by the Poisson 
-Distribution with $$ \lambda = 9\ $$ multiplied by the pitcher’s WHIP. The Poisson Distribution says that with an average 
-number of occurrences, $$ \lambda $$, the probability of x successes (in this case walks & hits) in the 
+Distribution with $$\lambda = 9$$ multiplied by the pitcher’s WHIP. The Poisson Distribution says that with an average 
+number of occurrences, $$\lambda$$, the probability of x successes (in this case walks & hits) in the 
 interval is equal to 
 
 $$ 
